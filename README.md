@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo14076
 Fork on GitHub3736
-<h1 align="center">Hi 👋, I'm Deniz</h1>
+<h1 align="center">Hi 👋, I'm Denizer</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Italy</h3>
 
 <h3 align="left">Connect with me:</h3>
