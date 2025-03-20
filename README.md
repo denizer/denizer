@@ -3,6 +3,7 @@
 
   Hi 👋, I'm Denizer
 </h1>
-<h3 align="center">A passionate Full Stack Web Developer from Italy</h3>
+<h3>About me:</h3>
+<p>I'm a passionate Full Stack Web Developer from Italy</p>
 
 
